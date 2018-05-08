@@ -1,3 +1,4 @@
 # homepage
 
-This is a new homepage based on (https://github.com/E66666666/homepage)
+New homepage;
+Updates to come - Changing wallpapers/color schemes based on time of day
